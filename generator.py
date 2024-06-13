@@ -14,7 +14,7 @@ st.set_page_config(
 # Set the page title and caption
 st.title("Code In Place 2024")
 st.header("Final Project Ideas Generator")
-st.subheader("For when you need some inspiration (Like me!)")
+"For when you need some inspiration (Like me!)"
 
 # Formatting
 st.write(""" """)
